@@ -71,3 +71,6 @@ Anhui Boyan New Material Co., Ltd. was established in 2018, located in Huoshan E
 - **Address**: Weiliu Road, Huoshan Economic Development Zone, Lu'an City, Anhui Province, China
 
 We offer free samples, technical support and stable supply for bulk orders. Welcome to contact us!
+## 📄 Download Full Product Catalog
+Click the link below to view or download our aluminum paste catalog:  
+[Boyan Aluminum Paste Catalog](https://github.com/xiemeihua2022-art/boyan-aluminum-paste/blob/main/boyan-aluminum-paste-catalog.pdf)
